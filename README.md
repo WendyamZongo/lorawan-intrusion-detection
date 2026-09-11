@@ -124,10 +124,13 @@ pir-monitoring/
 ├── README.md
 ├── firmware/
 │   └── atmega328p/
-│       └── PIR_LoRa.ino              # ATmega328P firmware
+│       └── Intrusion.ino              # ATmega328P firmware
 ├── chirpstack/
-│   └── decoders/
-│       └── pir_decoder.js            # ChirpStack decoder
+│   └── Intrusion_decoder.js            # ChirpStack decoder
+├── hardware/
+│   └── Intrusion.kicad_pcb
+|   └── Intrusion.kicad_pro
+|   └── Intrusion.kicad_sch
 ├── webapp/
 │   └── app.py                        # PIR motion dashboard
 └── scripts/
@@ -157,7 +160,7 @@ MIT License — Free to use for educational and commercial purposes.
 
 ## 👨‍💻 Author
 
-Developed for **African Union Livestock Security Project**  
+Developed for **Livestock Security Project**  
 Location: Kenya 🇰🇪  
 Gateway: RAK5146 EU868 on Raspberry Pi 4B  
 Network: ChirpStack v4

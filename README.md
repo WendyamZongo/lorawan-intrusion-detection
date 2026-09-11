@@ -160,7 +160,4 @@ MIT License — Free to use for educational and commercial purposes.
 
 ## 👨‍💻 Author
 
-Developed for **Livestock Security Project**  
-Location: Kenya 🇰🇪  
-Gateway: RAK5146 EU868 on Raspberry Pi 4B  
-Network: ChirpStack v4
+Wendyam Clovis Dubois Zongo MSc Electrical Engineering (Computer Engineering), PAUSTI / JKUAT, Nairobi Embedded systems and FPGA engineer
